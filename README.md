@@ -1,6 +1,6 @@
 <h1 align="center">Magic Tweak</h1>
 
-![20251210_200917](https://github.com/user-attachments/assets/96892a9b-765f-4ea8-ad09-b4c4b53402f1)
+![magictweak](https://github.com/user-attachments/assets/3bbc05e3-21d2-49d8-abcd-819f1322ca28)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/120px-Google_Play_Store_badge_EN.svg.png" width="60"> [Download Magic Tweak](https://play.google.com/store/apps/details?id=com.levv.magictweak&pcampaignid=web_share))
 
